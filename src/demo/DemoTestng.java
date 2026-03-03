@@ -7,7 +7,7 @@ public class DemoTestng {
 	@Test
 	public static void demoB() {
 		Reporter.log("Hi World");//It will print only in the report
-//		Reporter.log("Hi World",false);//It will print only in the report
+//		Reporter.log("Edited by soundharya",false);//It will print only in the report
 	}
 
 	@Test
