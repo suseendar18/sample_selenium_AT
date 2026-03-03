@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class DemoTestng {
 	@Test
 	public static void demoB() {
-		Reporter.log("Hi World");//It will print only in the report
+		Reporter.log("I am Raghuprasanna");//It will print only in the report
 //		Reporter.log("Hi World",false);//It will print only in the report
 	}
 
